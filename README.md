@@ -23,3 +23,11 @@ Ecoscore is a full-stack web application developed for the High School I/O Hacka
 ### Leaderboard Screen
 
 ![Leaderboard Screenshot](screenshots/leaderboard.png)
+
+### Register Screen
+
+![Register Screenshot](screenshots/register.png)
+
+### Login Screen
+
+![Login Screenshot](screenshots/login.png)
